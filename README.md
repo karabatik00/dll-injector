@@ -114,7 +114,7 @@ You can save your current configuration (selected DLL and process) to a JSON fil
 
 ## Screenshots
 
-![Main GUI](https://hizliresim.com/h0lfz5g)
+![Main GUI](https://i.hizliresim.com/h0lfz5g.PNG)
 
 ## Requirements
 
