@@ -1,4 +1,3 @@
-# config.py
 import ctypes
 import logging
 import json
