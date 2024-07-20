@@ -71,7 +71,8 @@ You can save your current configuration (selected DLL and process) to a JSON fil
 
 ## Screenshots
 
-![Main GUI](path_to_screenshot)
+![Main GUI](![image](https://github.com/user-attachments/assets/312b3bc9-c75a-4aee-b441-bfa6c2873dc4)
+)
 
 ## Requirements
 
