@@ -1,4 +1,3 @@
-# gui.py
 import logging
 import psutil
 from tkinter import Tk, filedialog, Label, Entry, Button, Listbox, Scrollbar, messagebox, Frame, Toplevel, Menu, BooleanVar, StringVar
