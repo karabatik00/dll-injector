@@ -71,8 +71,7 @@ You can save your current configuration (selected DLL and process) to a JSON fil
 
 ## Screenshots
 
-![Main GUI](![image](https://github.com/user-attachments/assets/312b3bc9-c75a-4aee-b441-bfa6c2873dc4)
-)
+![Main GUI](https://github.com/user-attachments/assets/312b3bc9-c75a-4aee-b441-bfa6c2873dc4)
 
 ## Requirements
 
@@ -89,4 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact the project maintainer at your_email@example.com.
+If you have any questions or suggestions, feel free to open an issue or contact the project maintainer at bahceciridvan27@gmail.com
